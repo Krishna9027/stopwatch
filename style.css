@@ -1,0 +1,20 @@
+body{
+    display: flex ;
+    align-items: center;
+    height:100vh;
+    justify-content: center;
+    background-color:red;
+    
+}
+h1{
+    font-size: 60px;
+
+}
+#clock{
+    text-align: center;
+}
+.btn{
+    padding:15px 15px;
+    background-color: palegreen;
+    
+}
